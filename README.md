@@ -1,4 +1,4 @@
-#  OpenAPI Specification
+# MCV2 OpenAPI Specification
 [![Build Status](https://travis-ci.org/heckramirezc/mcv2_cenam_api.svg?branch=master)](https://travis-ci.org/heckramirezc/mcv2_cenam_api)
 
 ## Steps to finish

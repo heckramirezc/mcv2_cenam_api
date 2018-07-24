@@ -1,8 +1,7 @@
 {
   "generator-openapi-repo": {
-    "importExistingSpec": true,
-    "importedSpec": "app.json",
-    "name": "",
+    "importExistingSpec": false,
+    "name": "MCV2",
     "repo": "heckramirezc/mcv2_cenam_api",
     "splitSpec": true,
     "samples": true,

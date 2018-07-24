@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "node"
 deploy:
-    github-token: 6fe07eb9b962df554c80f6f7d563374d3ed269a1  # Set in the settings page of your repository, as a secure variable
+    GH_TOKEN: 6fe07eb9b962df554c80f6f7d563374d3ed269a1  # Set in the settings page of your repository, as a secure variable
   - skip_cleanup: true
     provider: script
     script: npm run deploy

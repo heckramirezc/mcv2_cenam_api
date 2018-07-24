@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "app.json",
+    "name": "",
+    "repo": "heckramirezc/mcv2_cenam_api",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
